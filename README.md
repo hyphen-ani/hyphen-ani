@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A Passionate Backend & AI Software Engineer</h3>
 
-- 🔭 I’m currently working on **Web3 Projects**
+- 🔭 I’m currently working on **Web3 Project And AI Projects**
 
 - 🌱 I’m currently learning **Express, Next.js, Kafka, Kubernetes, Docker, TypeScript**
 

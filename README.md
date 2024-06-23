@@ -83,12 +83,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/hyphen-ani/hyphen-ani/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif"  />
 
 ###

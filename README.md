@@ -1,11 +1,34 @@
-<h2 align="left">Anirudh Github Space</h2>
+<h2 align="left">Anirudh Github Space 👋</h2>
+
+Hi there! I'm a physicist and technologist with a passion for building innovative AI solutions and SaaS platforms. My strong foundation in mathematical theories and physics allows me to bring analytical depth to problem-solving and product development. From theoretical concepts to practical applications, I aim to bridge the gap between ideas and impactful solutions.
+
+## 🌟 About Me
+
+- **Physicist**: Deep understanding of mathematical frameworks, including:
+  - Linear Algebra
+  - Calculus (Multivariable and Differential)
+  - Probability and Statistics
+  - Information Theory
+  - Graph Theory
+  - Optimization Techniques
+
+- **Technologist**: Crafting AI and SaaS platforms with advanced algorithms and user-centric design.
+- **Researcher**: Published work in plasmonics, nanotechnology, and cosmology.
+
+##
+
+## 🛠 Tech Stack
+
+- **Languages**: Python, Rust, C++, JavaScript, TypeScript and Swift
+- **Tools**: React, TensorFlow, AWS, Kubernetes
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyphen-ani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🌱 Let's Collaborate
 
+I'm open to working on AI/ML, SaaS, and open-source projects. Feel free to connect!
+
+---
 ###
 
 <div align="left">
@@ -30,8 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
@@ -74,6 +95,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
 
+
+
 ###
 
 <div align="left">
@@ -82,6 +105,9 @@
   </a>
 </div>
 
-<img align="right" height="150" src="https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif"  />
 
 ###
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyphen-ani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif"  />
+</div>

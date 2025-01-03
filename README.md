@@ -19,7 +19,7 @@ Hi there! I'm a physicist and technologist with a passion for building innovativ
 ## 🛠 Tech Stack
 
 - **Languages**: Python, Rust, C++, JavaScript, TypeScript and Swift
-- **Tools**: React, TensorFlow, AWS, Kubernetes
+- **Tools**: React, PyTorch, AWS, Kubernetes
 
 ###
 

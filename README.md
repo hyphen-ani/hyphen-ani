@@ -9,7 +9,7 @@ Hi there! I'm a physicist and technologist with a passion for building innovativ
   - Calculus (Multivariable and Differential)
   - Probability and Statistics
   - Information Theory
-  - Graph Theory Algorithms 
+  - Graph Theory 
   - Optimization Techniques
 - **Technologist**: Crafting AI and SaaS platforms with advanced algorithms and user-centric design.
 - **Researcher**: Published work in plasmonics, nanotechnology, and cosmology.
